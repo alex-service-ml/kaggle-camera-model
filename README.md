@@ -16,9 +16,9 @@ each of the training images via a center crop and then a few more times from ran
 
 ## The Results
 Ultimately, I only achieved about a **50%** test accuracy. I did not have more time to explore why, but I suspect a few reasons: 
--Errors in my data generation
--Not enough training time
--No data pre-processing 
+- Errors in my data generation
+- Not enough training time
+- No data pre-processing 
 Really, I likely would've gotten further had I taken the time to build out a confusion matrix for both altered and unaltered images to see where the biggest issues were. 
 
 ## Other Notebooks
